@@ -17,6 +17,7 @@ The repository was initialized with a single empty `.gitkeep` commit. This CLAUD
 ```
 TEXT/
 ├── CLAUDE.md          ← This file
+├── README.md          ← Human-facing project overview
 └── .gitkeep           ← Placeholder from initialization
 ```
 
@@ -97,4 +98,4 @@ When GitHub Actions or another CI system is introduced, document:
 
 ---
 
-*Last updated: 2026-06-03 — initial creation on empty repository.*
+*Last updated: 2026-07-04 — added README.md.*
